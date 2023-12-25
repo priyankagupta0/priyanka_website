@@ -157,14 +157,14 @@ import {
         "Comprehensive data science course, gaining expertise in web scraping, data cleaning, Plotly visualization, and practical DA. Acquired hands-on coding skills applicable to custom data science projects within an organizational context.",
       name: "Python Essential Training",
       designation: "LinkedIn Learning",
-      link: "/priyanka_website/src/components/CertificateOfCompletion_Python Essential Training.pdf",
+      link: "/priyanka_website/src/components/CertificateOfCompletion_PythonEssentialTraining.pdf",
     },
     {
       testimonial:
         "Comprehensive Python course, covering essential concepts including installation, programming basics, data types, structures, control flow, error handling, and file manipulation.",
       name: "Python for Data Science Essential Training",
       designation: "LinkedIn Learning",
-      link: "/priyanka_website/src/components/CertificateOfCompletion_Python for Data Science Essential Training Part 1.pdf",
+      link: "/priyanka_website/src/components/CertificateOfCompletion_PythonforDataScienceEssentialTrainingPart 1.pdf",
     },
   ];
   
